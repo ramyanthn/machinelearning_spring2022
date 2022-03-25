@@ -15,4 +15,4 @@ File names:
 
 - yelp_dataset.tar file is the zipped file. It contains 3 files after unzipping it.
 
-- ProjectPresentatoin1 file contains our project 1 presentation sildes.
+- ProjectPresentation1 file contains our project 1 presentation sildes.
