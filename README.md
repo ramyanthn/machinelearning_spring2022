@@ -16,7 +16,7 @@ Business Scenario:
 
 File names:
 
-- **Project 1 Team H.ipynb** file contains all the code of data analysis and data visualization from Presentation 1.
+- **Project 1.ipynb** file contains all the code of data analysis and data visualization from Presentation 1.
 
 - **yelp_dataset.tar** file is the zipped file. It contains 3 files after unzipping it.
 
