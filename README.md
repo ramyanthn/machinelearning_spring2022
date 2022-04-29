@@ -2,12 +2,12 @@
 Project for Machine Learning (Spring 2022) TXST
 
 Team Members:
-Abelardo Garcia,
-Sujan Pokharel,
-Ramyanth Nakshathram,
-Sai Lakshman Ethakatla,
-Rupadevi Raga,
-Sathya Priya
+- Abelardo Garcia
+- Sujan Pokharel
+- Ramyanth Nakshathram
+- Sai Lakshman Ethakatla
+- Rupadevi Raga
+- Sathya Priya
 
 Business Scenario:
 - Yelp would like to find what makes up the positive review and predict if the accuracy of a restaurant would be positive or negative based on the reviews.
