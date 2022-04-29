@@ -22,7 +22,7 @@ File names:
 
 - **Yelp Dataset Link.txt** file contains the http link of the dataset.
 
-- **Project1_Presentation_Team H.pptx** file contains our project 1 presentation sildes.
+- **ProjectPresentation1.pptx** file contains our project 1 presentation sildes.
 
 - **Team H_ML Project.py** contains the final code of the project.
 
