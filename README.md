@@ -10,8 +10,8 @@ Rupadevi Raga,
 Sathya Priya
 
 Business Scenario:
-- Yelp would like to find what makes up the positive review and predict if the accuracy of a restaurant would be positive or negative based on the reviews. 
-- Yelp would like to use the findings to recommend restaurants with positive reviews to customers 
+- Yelp would like to find what makes up the positive review and predict if the accuracy of a restaurant would be positive or negative based on the reviews.
+- Yelp would like to use the findings to recommend restaurants with positive reviews to customers 
 - Suggest the popular products of restaurants to the first-time customers based on the word cloud. 
 
 File names:
